@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="true">Fitness Trainer</string>
+
+    <string name="nav_title_train" translatable="true">Train</string>
+    <string name="nav_title_today" translatable="true">Today</string>
+    <string name="nav_title_diet" translatable="true">Diet</string>
+
+</resources>
